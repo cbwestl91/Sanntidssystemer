@@ -1,0 +1,16 @@
+!SESSION 2013-08-23 10:53:58.833 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.linuxtools.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.linuxtools.product
+
+!ENTRY org.eclipse.ui 4 4 2013-08-23 10:54:22.912
+!MESSAGE Plugin org.eclipse.linuxtools.callgraph, extension org.eclipse.ui.perspectiveExtensions, id org.eclipse.linuxtools.callgraph.callgraphview: Attribute 'relative' not defined.  This attribute is required when relationship="stack".
+
+!ENTRY org.eclipse.ui 4 4 2013-08-23 10:54:22.915
+!MESSAGE Unable to process element: view in perspective extension: null
+
+!ENTRY org.eclipse.cdt.core 1 0 2013-08-23 10:59:32.633
+!MESSAGE Indexed 'øving 0' (0 sources, 33 headers) in 0.43 sec: 622 declarations; 757 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)

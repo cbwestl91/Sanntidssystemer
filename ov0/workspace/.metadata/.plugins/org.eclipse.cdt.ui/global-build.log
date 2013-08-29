@@ -1,0 +1,55 @@
+
+**** Build of configuration Debug for project øving 0 ****
+
+Nothing to build for project øving 0
+
+**** Build of configuration Debug for project øving 0 ****
+
+make all 
+Building file: ../source.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"source.d" -MT"source.d" -o "source.o" "../source.c"
+Finished building: ../source.c
+ 
+Building target: øving 0
+Invoking: GCC C Linker
+gcc  -o "øving 0"  ./source.o   
+Finished building target: øving 0
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project øving 0 ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project øving 0 ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project øving 0 ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project øving 0 ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project øving 0 ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
